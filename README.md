@@ -1,4 +1,4 @@
 # Personal-blog
 This is my personal blog - Georgi Krastenov
 
-Release Date : Decembre 2019
+Release Date : December 2019
